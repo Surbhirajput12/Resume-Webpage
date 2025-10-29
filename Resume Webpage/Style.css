@@ -1,0 +1,68 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(237, 232, 232);
+}
+
+/* Add more common styles here */
+.top{
+    background-color: rgb(25, 25, 75);
+    width: 100%;
+    height: 150px;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+.mid{
+    color: black;
+    text-align: center;
+    margin: 20px 0px;
+    width: 100%;
+    padding: 20px;
+}
+.mid-aboutme {
+    background-color: white;
+    padding: 50px;
+    margin: 20px;
+}
+.mid-education {
+    background-color: rgb(188, 218, 249);
+    padding: 50px;
+    margin: 20px;
+}
+.mid-projects {
+    background-color: rgb(232, 216, 238);
+    padding: 50px;
+    margin: 20px;
+}
+.mid-contact {
+    background-color: rgb(208, 244, 224);
+    padding: 50px;
+    margin: 20px;
+}
+.mid-skills {
+    background-color: rgb(250, 239, 178);
+    padding: 50px;
+    margin: 20px;
+}
+p{
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: 100;
+}
+.bottom{
+    background-color: rgb(25, 25, 75);
+    width: 100%;
+    height: 80px;
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+}
